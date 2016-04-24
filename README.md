@@ -4,7 +4,7 @@ Transportation Management System for Group-Office groupware and CRM
 Project is hosted over at Sourceforge
 https://sourceforge.net/projects/groupoffice-tms-module/
 
-Inital Push
+Initial Push
 
 This is just the TMS module. It won't do to much on its own. Drop the folder named ' tms ' in to the modules folder on the  Group-Office CRM. 
 
